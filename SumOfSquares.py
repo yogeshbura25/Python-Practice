@@ -5,3 +5,4 @@ for i in range(m, n+1):
     result = i ** 2 
     total += result
 print(total)
+print(result)

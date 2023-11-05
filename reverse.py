@@ -1,5 +1,5 @@
 s = "Python Programming"
-str = " "
+res = " "
 for i in (s):
-    str = i + str
+    res = i + res
 print(str)
